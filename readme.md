@@ -1,5 +1,5 @@
 授人以渔不如授人以鱼，节约时间的话可以直接
-把http://bdimg.share.baidu.com/改为 https://wuchaolong.github.io/baiduShare/  
+把http://bdimg.share.baidu.com/ 改为 https://wuchaolong.github.io/baiduShare/  
 .src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
 改为
 .src='https://wuchaolong.github.io/baiduShare/static/api/js/share.js?v=89860593.js?'];</script>
